@@ -1,3 +1,6 @@
 [submodule "data-structures-monday"]
 	path = data-structures-monday
 	url = https://github.com/gprok-esc-courses/data-structures-monday.git
+[submodule "data-structures-wednesday"]
+	path = data-structures-wednesday
+	url = https://github.com/gprok-esc-courses/data-structures-monday.git
