@@ -19,6 +19,6 @@
         return result
 
 # Παράδειγμα κλήσης της συνάρτησης
-n = 5
+n = 9
 print(f"Υπολογισμός του {n}ου αριθμού Fibonacci:")
 fibonacci(n)
